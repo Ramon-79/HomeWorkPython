@@ -1,0 +1,22 @@
+[
+  {
+    "level": 1,
+    "id": "001",
+    "name": "Afgan"
+  },
+  {
+    "level": 1,
+    "id": "002",
+    "name": "Dana"
+  },
+  {
+    "level": 2,
+    "id": "001",
+    "name": "Margo"
+  },
+  {
+    "level": 2,
+    "id": "002",
+    "name": "Falko"
+  }
+]
